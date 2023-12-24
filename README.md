@@ -4,7 +4,6 @@ It's the landing page of the wedding photographer.
 
 ![first page](13.png)
 ![first page](12.png)
-![first page](14.png)
 ![first page](15.png)
 ![first page](16.png)
 
