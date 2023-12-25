@@ -12,4 +12,4 @@ Bug reports and/or pull requests are welcome.
 
 -----
 
-The app was made using only BOOTSTRAP
+The app was made using  BOOTSTRAP
